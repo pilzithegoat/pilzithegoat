@@ -14,9 +14,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="𝓟𝓲𝓵𝔃𝓲 | LinkedIn" width="21px"/></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="𝓟𝓲𝓵𝔃𝓲 | Instagram" width="21px"/></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="𝓟𝓲𝓵𝔃𝓲 | Medium" width="21px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
