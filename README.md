@@ -19,24 +19,24 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="𝓟𝓲𝓵𝔃𝓲 | Medium" width="21px"/></a>
 </br>
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on:
 
 - Trying out differnet things
 - Working on a Fivem Script
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning:
 
 - Lua
 - Python  
 
-## 🔨 My Tools that I use
+## 🔨 My Tools:
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilzithegoat)](https://github.com/pilzithegoat)
 
