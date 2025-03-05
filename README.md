@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer">𝓟𝓲𝓵𝔃𝓲</a> 👋
 </h3>
 
 <h2 align="center">
