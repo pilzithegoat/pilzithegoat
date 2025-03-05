@@ -41,5 +41,3 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilzithegoat)](https://github.com/pilzithegoat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilzithegoat&layout=compact)](https://github.com/pilzithegoat)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pilzithegoat.pilzithegoat)](https://www.yushi.dev/)
