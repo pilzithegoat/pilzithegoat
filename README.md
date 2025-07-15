@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer"><img src="https://github.com/pilzithegoat/pilzithegoat/blob/main/Minimalistisch%20Foto%20Natur%20YouTube-Banner.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer">𝓟𝓲𝓵𝔃𝓲</a> 👋
 </h3>
