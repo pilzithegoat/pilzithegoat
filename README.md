@@ -10,7 +10,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/650387361313587219?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=5px&showDisplayName=true&hideSpotify=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/761329534716215296)
+[![Discord Presence](https://lanyard.cnrad.dev/api/761329534716215296?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=5px&showDisplayName=true&hideSpotify=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/761329534716215296)
 
 
 ## 🔭 I'm currently working on:
