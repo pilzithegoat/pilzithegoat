@@ -2,6 +2,8 @@
 Hi ich bin <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer">𝓟𝓲𝓵𝔃𝓲</a> 👋
 </h3>
 
+
+
 ## 🤝 Mein Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/761329534716215296?borderRadius=10px&bg=23727&idleMessage=Nichts%20zu%20sehen%20%F0%9F%91%80&theme=dark&animated=false&showDisplayName=true)](https://discord.com/users/761329534716215296)
 
