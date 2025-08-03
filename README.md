@@ -10,10 +10,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="𝓟𝓲𝓵𝔃𝓲 | LinkedIn" width="21px"/></a>
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="𝓟𝓲𝓵𝔃𝓲 | Instagram" width="21px"/></a>
-<a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="𝓟𝓲𝓵𝔃𝓲 | Medium" width="21px"/></a>
-</br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/761329534716215296?showDisplayName=true&animated=false&theme=dark&idleMessage=Ich%20mach%20garnichts)](https://discord.com/users/761329534716215296)
 
 ## 🔭 I'm currently working on:
 
