@@ -8,9 +8,9 @@ I'm a little programmer👨‍💻 who likes to try things out and learn to prog
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
+### 🤝 My discord:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/761329534716215296?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=5px&showDisplayName=true&hideSpotify=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/761329534716215296)
+[![Discord Presence](https://lanyard.cnrad.dev/api/761329534716215296?borderRadius=10px&bg=23727&idleMessage=Nichts%20zu%20sehen%20%F0%9F%91%80&theme=dark&animated=false&showDisplayName=true)](https://discord.com/users/761329534716215296)
 
 
 ## 🔭 I'm currently working on:
