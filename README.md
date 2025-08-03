@@ -1,5 +1,5 @@
 <h3 align="center">
-# Hi ich bin <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer">𝓟𝓲𝓵𝔃𝓲</a> 👋
+Hi ich bin <a href="https://youtu.be/xvFZjo5PgG0?si=svtVR2kwfLiG4vVG" target="_blank" rel="noreferrer">𝓟𝓲𝓵𝔃𝓲</a> 👋
 </h3>
 
 ## 🤝 Mein Discord:
