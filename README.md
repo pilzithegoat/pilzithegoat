@@ -38,7 +38,3 @@ I love the entire process of developing creative websites. I love the challenge 
      <img src="https://github-readme-stats.vercel.app/api?username=pilzithegoat&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilzithegoat&layout=compact&theme=transparent&hide_border=true" />
 </a>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilzithegoat)](https://github.com/pilzithegoat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilzithegoat&layout=compact)](https://github.com/pilzithegoat)
