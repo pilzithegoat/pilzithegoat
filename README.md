@@ -20,3 +20,12 @@
      <img src="https://github-readme-stats.vercel.app/api?username=pilzithegoat&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilzithegoat&layout=compact&theme=transparent&hide_border=true" />
 </a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pilzithegoat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pilzithegoat&icon=6&color=11)](https://visitcount.itsvg.in)
